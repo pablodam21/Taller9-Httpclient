@@ -1,0 +1,3 @@
+include ':app guiada'
+include ':app'
+rootProject.name = "U5T9HttpClient"
